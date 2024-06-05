@@ -1,7 +1,3 @@
-Certainly! Below is a template for a README file for your Iris Classification project. You can adjust it according to your specific requirements and add any additional details as necessary.
-
----
-
 # Iris Species Classification Project
 
 ## Project Overview
